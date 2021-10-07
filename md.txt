@@ -1,0 +1,11 @@
+download fontawesome
+google Fonts catamaran 400, 700, grand hotel
+
+setup variables and global styles (faster development, reusable)
+
+text transform: capitalize − The first letter of each word in the 
+element's text should be capitalized
+
+
+
+
